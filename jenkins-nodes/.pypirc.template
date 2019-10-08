@@ -1,0 +1,8 @@
+[distutils]
+index-servers =
+    pypi.kinja
+
+[pypi.kinja]
+repository: https://kinjajfrog.jfrog.io/kinjajfrog/api/pypi/mpi
+username: jenkins
+password: ##TOKEN##
